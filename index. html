@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon CV en ligne</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
+    <meta name="description" content="Presentation de Jehu Tshimanga - CV">
+    <Link rel="stylesheet" href="style.css">
+    
+    <link rel="icon" href="img/logojehu2.png">
+</head>
+<body>
+    
+    <header>
+        <h1>Jehu Lufuluabo</h1>
+        
+        
+    </header>
+    <nav>
+        <div class="table">
+          <ul>
+            <li class="col1" class="menu-index">
+                <a href="Index.html">Accueil</a>
+            </li>
+            <li class ="menu-exp">
+                <a href="experience_Pro.html">Expérience professionnelles</a></li>
+            <li class="menu-loisir"><a href="Loisir.html">Loisirs</a></li>
+            <li class="menu-contact"><a href="Contact.html">Contactez-moi!</a></li>
+          </ul>
+        </div>
+    </nav>
+    
+    <article>
+      <section class="presentation">
+         <h1>Qui suis-je?</h1>
+        <div class="sec">
+          <div class="left">
+              <img src="img/jehu-p1.jpg" alt="Ma photo" class="img1"> 
+          </div>
+          <div class="right">
+            <p>Je m'appelle Jehu Tshimanga, j'ai 22 ans et je vis aux Congo Kinshasa.</p>
+            <p>Je suis diplomé en mécanique automobile et je finis mes etude au C.S La source.</p>
+            <p>J'ai un brevet de l'INSTITUT NATIONAL DE PRÉPARATION PROFESSIONNELLES en informatique.</p>
+          </div>
+          </div>
+            
+      </section>
+      
+    <section class="parcours">
+        <h1>Parcours et expériences</h1>
+        <div class="sec">
+          <h2>Expériences professionnelles</h2>
+          <div class="exp">
+            <div class="left">
+              <h3>2013 - 2014</h3>
+            </div>
+            <div class="right">
+              <h3>Créateur - propre-présentation</h3>
+              <p>Créateur du présent site propre présentation et de tutoriels vidéos concernant les langages de programmation.</p>
+            </div>
+          </div>
+          <div class="exp">
+            <div class="left">
+              <h3>2017</h3>
+            </div>
+            <div class="right">
+              <h3>Stagiaire - Bakuadianga</h3>
+              <p>Travail sur l'embellissement des habits aux cirfuleuse et B 20U.</p>
+            </div>
+          </div>
+          <h2>Parcours scolaire</h2>
+          <div class="exp">
+            <div class="left">
+              <h3>2015 - 2018</h3>
+            </div>
+            <div class="right">
+              <h3>stage d'anglais aux centre GKC</h3>
+              <p>Obstention d'un brevet D'anglais</p>
+            </div>
+          </div>
+          <div class="exp">
+            <div class="left">
+              <h3>2012 - 2014</h3>
+            </div>
+            <div class="right">
+              <h3>Debut de céo</h3>
+              <p>L'années dans laquel je debuter le Céo Aux C.S La source du MBM</p>
+            </div>
+          </div>
+        </div>
+        
+      </section>
+      <section class="competences">
+        <h1>Competances et niveau</h1>
+      <div class="sec">
+        <div class="cleft">
+          <div class="sous">
+             <div class="sousleft"><h3>Compétance</h3></div>
+             <div class="sousright"><h3>Niveaux</h3></div>
+          </div>
+          <div class="sous">
+             <div class="sousleft"><p>HTML / CSS</p></div>
+             <div class="sousright"><p>EXPERT</p></div>
+          </div>
+          <div class="sous">
+             <div class="sousleft"><p>JavaScript</p></div>
+             <div class="sousright"><p>EXPERT</p></div>
+          </div>
+        </div>
+          <div class="cright">
+            <div class="sous">
+             <div class="sousleft"><h3 class="cacher">Compétance</h3></div>
+             <div class="sousright"><h3 class="cacher">Niveaux</h3></div>
+          </div>
+          <div class="sous">
+             <div class="sousleft"><p>PHP / SQL</p></div>
+             <div class="sousright"><p>AVANCE</p></div>
+          </div>
+          <div class="sous">
+             <div class="sousleft"><p>Python</p></div>
+             <div class="sousright"><p>AVANCER</p></div>
+          </div>
+          </div>
+      </div>
+        
+      </section>
+      <section class="recommandation">
+        <h1>Recommandations (à télécharger)</h1>
+         <div class="sec">
+          <div class="reco">
+            <h2>INPP</h2>
+            <div class="left">
+              <a href="Excel_2016.pdf" target="_blank"><img src="img/Capture.jpg" class="img1"></a>
+            </div>
+            <div class="right">
+                <p>"Jehu a fait de l'exellent travail a l'institut national de préparation professionnelle.</p>
+            </div>
+        </div>
+    <div class="reco">
+            <h2>Papy katumba</h2>
+            <div class="left">
+              <a href="Excel_2016.pdf" target="_blank"><img src="img/Capture.jpg" class="img1"></a>
+            </div>
+            <div class="right">
+              <p>"Moi monsieur Papy Katumba je reconnaît les compétences de monsieur Jehu Tshimanga en informatique et j'en suis satisfait, puisque celui-ci à sû repondre a mes attentes quant ont faisait le stage a L'INSTITUT NATIONAL DE PRÉPARATION PROFESSIONNEL.</p>
+            </div>
+          </div>
+         </div>
+      </section>
+      
+    </article>
+    
+    <footer>
+        <p>Copyright &copy; 2023 Jehu Lufuluabo - Toute reproduction interdite</p>
+    </footer>
+</body>
+</html>
